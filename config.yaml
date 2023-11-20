@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: 'https://shark-revenge.netlify.app/'
 title: Spectral
 languageCode: en-us
 defaultContentLanguage: en
