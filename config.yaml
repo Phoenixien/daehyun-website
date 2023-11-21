@@ -1,5 +1,5 @@
 baseURL: 'https://shark-revenge.netlify.app/'
-title: Spectral
+title: Shark Revenge
 languageCode: en-us
 defaultContentLanguage: en
 paginate: '7'
@@ -9,35 +9,40 @@ params:
   contact:
     address: 1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country
     body: Leave us a message.
-    email: nospam@example.com
+    email: daehyunbouche@gmail.com
     enable: yes
     formspree_form_id: example_invalid
     phone: +49 (0) 030 000 000
     subject: New Submission!
-    title: Contact
-  copyright: John Doe
+    title: Contact us
+  copyright: Vincent Bouché
   cta:
-    body: Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend
-      fringilla.
+    body: Protection and conservation of marine wildlife by using traditional and modern tools. Taking in consideration the culture and tradition of human people. 
     enable: yes
     link:
       - href: '#'
         special: yes
-        text: Activate
+        text: Contact us
       - href: '#'
         special: no
         text: Learn More
-    title: Arcue ut vel commodo
-  description: Another fine responsive<br />site template freebie<br />crafted by
-    <a href="http://html5up.net">HTML5 UP</a>.<br />Ported to <a href="//gohugo.io">Hugo</a>
-    by Simon Bruder.
-  fancyTitle: Spectral
+    title: Our mission
+  description: Protection of marine wildlife using traditional and modern tools to maintain a healthy ecosystem
+  fancyTitle: Ocean Research 
   menu:
     main:
       - title: Home
         url: /
-      - title: Posts
-        url: /posts/
+      - title: About us
+        url: /about us/
+      - title: News
+        url: /news/
+      - title: Publications
+        url: /publications/
+      - title: Galery
+        url: /galery/
+      - title: Contact
+        url: /contact/
   one:
     body: "Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend
       \ \r\nfringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.\r\n"
@@ -116,7 +121,7 @@ taxonomies:
   tag: tags
 languages:
   de:
-    languageName: Deutsch
+    languageName: Français
     weight: 10
   en:
     languageName: English
