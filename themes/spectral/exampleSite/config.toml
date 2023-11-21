@@ -1,5 +1,5 @@
-baseURL = "/"
-title = "Spectral"
+baseURL = "https://shark-revenge.netlify.app/"
+title = "Shark Revenge"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 paginate = "7"
@@ -8,7 +8,7 @@ theme = "spectral"
 
 [params]
 fancyTitle = "Spectral" # title for frontpage, may include image
-copyright = "John Doe"
+copyright = "Vincent Bouché"
 description = 'Another fine responsive<br />site template freebie<br />crafted by <a href="http://html5up.net">HTML5 UP</a>.<br />Ported to <a href="//gohugo.io">Hugo</a> by Simon Bruder.'
 startbuttonText = "Activate"
 startbuttonLink = "#"
@@ -22,8 +22,24 @@ url = '/'
 title = "Home"
 
 [[params.menu.main]]
-url = '/posts/'
-title = "Posts"
+url = '/about us/'
+title = "About us"
+
+[[params.menu.main]]
+url = '/news/'
+title = "News"
+
+[[params.menu.main]]
+url = '/publications/'
+title = "Publications"
+
+[[params.menu.main]]
+url = '/galery/'
+title = "Galery"
+
+[[params.menu.main]]
+url = '/contact/'
+title = "Contact"
 
 [taxonomies]
     tag = "tags"
@@ -131,7 +147,7 @@ title = "Contact"
 body = "Leave us a message."
 phone = "+49 (0) 030 000 000"
 address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
-email = "nospam@example.com"
+email = "daehyunbouche@gmail.com"
 subject = "New Submission!"
 formspree_form_id = "example_invalid"
 
@@ -156,4 +172,4 @@ languageName = "Deutsch"
 
 [languages.es]
 weight = 10
-languageName = "Español"
+languageName = "Français"

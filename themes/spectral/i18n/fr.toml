@@ -1,0 +1,32 @@
+[menu]
+other = "menu"
+
+[learnmore]
+other = "Découvrez en plus"
+
+[name]
+other = "Nom"
+
+[email]
+other = "Email"
+
+[phone]
+other = "Téléphone"
+
+[address]
+other = "Adresse"
+
+[yourmessage]
+other = "Votre message"
+
+[send]
+other = "envoyer"
+
+[reset]
+other = "réinitialiser"
+
+[allarticles]
+other = "tous les articles"
+
+[readmore]
+other = "Lire plus"
