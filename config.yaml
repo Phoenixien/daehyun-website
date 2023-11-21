@@ -20,10 +20,10 @@ params:
     body: Protection and conservation of marine wildlife by using traditional and modern tools. Taking in consideration the culture and tradition of human people. 
     enable: yes
     link:
-      - href: '#'
+      - href: '#contact'
         special: yes
         text: Contact us
-      - href: '#'
+      - href: '#news'
         special: no
         text: Learn More
     title: Our mission
@@ -68,7 +68,7 @@ params:
     twitter: ''
     youtube: ''
   startbuttonLink: '#'
-  startbuttonText: Activate
+  startbuttonText: Contact us
   three:
     body: "Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend
       \ \r\nfringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.\r\n"
