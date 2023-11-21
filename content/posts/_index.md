@@ -1,10 +1,10 @@
 ---
 aliases:
-- posts
-- articles
-- blog
-- showcase
-- docs
+- about us
+- news
+- publications
+- galery
+- contact
 author: Hugo Authors
 tags:
 - index

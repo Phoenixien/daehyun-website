@@ -67,7 +67,7 @@ params:
     mastodon: ''
     twitter: ''
     youtube: ''
-  startbuttonLink: '#'
+  startbuttonLink: '#contact us'
   startbuttonText: Contact us
   three:
     body: "Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend
