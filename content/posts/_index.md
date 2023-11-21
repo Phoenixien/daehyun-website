@@ -12,3 +12,4 @@ author: Vincent Bouche
 tags:
 - index
 title: News
+---
